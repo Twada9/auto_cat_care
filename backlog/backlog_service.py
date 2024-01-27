@@ -8,7 +8,6 @@ sys.path.append("./teams")
 import backlog_repository
 import teams_notification
 
-# export PYTHONPATH="/Users/qnote/project/python/auto_cat_care:$PYTHONPATH" .zshrcに記入 他ディレクトリからimportできないため
 # https://qiita.com/yokohama4580/items/466a483ae022d264c8ee#2-%E8%A6%AA%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%82%92%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0pythonpath%E3%81%AB%E9%80%9A%E3%81%99
 class BacklogService :
     TODAY: datetime
