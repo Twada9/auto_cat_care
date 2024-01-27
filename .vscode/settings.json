@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./teams"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
